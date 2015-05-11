@@ -1,1 +1,1 @@
-# baby_name
+Built a web page that displays graph representations of the population and meaning of a searched name from data provided by Social Security Administration

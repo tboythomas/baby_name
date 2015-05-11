@@ -1,0 +1,30 @@
+/*
+	Wenlu Cheng, 
+	This page is a page css file to decorate the names.html page and when the square is movable,
+	new class will be added and it turns red
+*/
+
+
+body,button{
+	font-size: 12pt;
+	font-family: Georgia;
+}
+
+.bar{
+	background-color: #FFBBBB;
+	width:50px;
+	text-align: center;
+}
+
+q{
+	font-style: italic;
+}
+
+tr{
+	vertical-align: bottom;
+	font-weight: bold;
+}
+
+.top{
+	color:red;
+}
